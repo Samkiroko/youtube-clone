@@ -223,3 +223,88 @@ aside {
 	color: grey;
 }
 
+.desktop-menu {
+    color: #606060;
+    margin: auto 20px;
+}
+
+.navbar-brand {
+    display: flex;
+}
+.navbar-brand i {
+    color: red;
+    font-size: 23px;
+    margin-top: 5px !important;
+}
+
+.navbrand-span {
+    display: inline-block !important;
+    font-weight: bold;
+}
+.navbar-form {
+    margin-left: 180px;
+    width: 50%;
+    display: flex;
+}
+
+.navbar-form input {
+    margin-right: 0 !important;
+}
+
+.navbar-form span {
+    height: 38px;
+    width: 70px;
+    background: white;
+    border: 1px solid #CCCCCC;
+    text-align: center;
+    border-radius: 3px;
+    border-left: none;
+}
+
+.navbar-form span:hover {
+    background: #F8F8F8;
+}
+.search-icon-nav {
+    margin-top: 10px;
+    color: #CCCCCC;
+}
+
+.right-side-icons {
+    display: inline-block;
+    margin-left: 4em;
+}
+
+.right-side-icons i {
+    font-size: 150%;
+    color: #606060;
+    margin: auto 0.5em auto 0.5em;
+}
+
+/* MEDIA QUERIES */
+@media(max-width: 1024px) {
+    .navbar-form {
+        margin-left: auto;
+        /* width: 50%;
+        display: flex; */
+    }
+
+    span.navbar-toggler-icon {
+        position: absolute;
+        top: 0;
+        left: 0;
+    }
+
+    .right-side-icons {
+        margin: auto 0.2em;
+    }
+}
+
+@media(max-width: 400px) {
+    .desktop-menu {
+        display: none !important;
+    }
+
+    button.navbar-toggler {
+        display: none !important;
+    }
+}
