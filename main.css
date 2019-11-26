@@ -295,6 +295,7 @@ aside {
     }
 
     .right-side-icons {
+        font-size: 90%;
         margin: auto 0.2em;
     }
 }
