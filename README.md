@@ -1,5 +1,5 @@
 # YOUTUBE CLONE (Microverse-inspired)
-This is a basic html and css project designed to mimick the popular https://youtube.com homepage. 
+This is a basic html and css project designed to mimick the popular https://youtube.com homepage.
 
 ## Technologies
 - HTML
@@ -8,3 +8,8 @@ This is a basic html and css project designed to mimick the popular https://yout
 ## CDNs
 - https://fonts.google.com/
 - https://fontawesome.com/icons/ellipsis-h?style=duotone
+
+
+## AUTHORS
+- https://github.com/codecell
+- https://github.com/Samkiroko
