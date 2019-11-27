@@ -111,7 +111,7 @@ aside {
 /* main video */
 
 div.video-player {
-	background-color: green;
+	background-color: grey;
 	height: 25rem;
 	width: 100%;
 }
@@ -250,7 +250,9 @@ h1 {
 .trolls-feedback i {
 	margin: 0.4rem;
 }
-
+.trolls-feedback i:hover {
+	cursor: pointer;
+}
 .trolls-feedback span {
 	margin-right: 1em;
 }
