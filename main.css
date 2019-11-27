@@ -109,6 +109,11 @@ aside {
 
 
 /* main video */
+iframe {
+border-width: 0px;
+width: 560px;
+height: 315px;
+}
 
 div.video-player {
 	background-color: grey;
