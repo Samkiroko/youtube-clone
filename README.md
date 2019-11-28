@@ -48,5 +48,5 @@ Check out my profile on [linkedin](https://www.linkedin.com/in/samuel-kiroko/) t
 Follow me on [Instagram](https://www.instagram.com/samkiroko/) and [Twitter](https://twitter.com/kirokonjenga) to see what I am up to!
 ### Enjoy!
 =======
-# mint.com-sign-up-form-clone
+
 
