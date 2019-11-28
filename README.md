@@ -4,7 +4,7 @@
 This is a basic html and css project designed to mimick the popular https://youtube.com homepage.
 
 
-![screenshot](https://user-images.githubusercontent.com/43377799/69832384-01c2ba80-123f-11ea-8fac-b3a5c9a299a9.png)
+![image](https://user-images.githubusercontent.com/43377799/69832969-23717100-1242-11ea-8ecd-e9b9711599d4.png)
 
 # What it does
 It displays our skills in using HTML5, CSS3 
