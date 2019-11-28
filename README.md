@@ -1,4 +1,4 @@
-<<<<<<< develop
+
 
 # YOUTUBE CLONE (Microverse-inspired)
 This is a basic html and css project designed to mimick the popular https://youtube.com homepage.
@@ -49,4 +49,4 @@ Follow me on [Instagram](https://www.instagram.com/samkiroko/) and [Twitter](htt
 ### Enjoy!
 =======
 # mint.com-sign-up-form-clone
->>>>>>> master
+
